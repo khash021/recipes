@@ -2,7 +2,8 @@
 	Beats(grated)
 	Flour
 	Egg
-	Spices
+	Spices 
+	Jalapeno (experimental)
 
 >>Steps:
 	1-Grate your beats and place in a large bowl.
